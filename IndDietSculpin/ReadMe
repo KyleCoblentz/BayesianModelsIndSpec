@@ -1,1 +1,5 @@
 This folder contains code for the analysis of individual-level sculpin data from the NovakLab.
+
+The goal of this project is two-fold: 1) we are interested in temporal dynamics of individual diets and variation among individual's diets,
+2) we are trying to extend the method published in Coblentz et al. 2017 to account for differential detection times and 
+availability among prey types. 
